@@ -32,6 +32,10 @@ INSERT INTO book (bookID, title, author, publisher, price, pubyear)
 VALUES (1, '경이로운 한국인', '장클로드 드크레센','마음의 숲', 16200, 2025);
 
 ---- < 인서트 값 추가>-----
+INSERT INTO book (BookID, Title, Author, Publisher, Price, PubYear)
+VALUES (2, '사피엔스', '제임스','교보문고', 24000,2024);
+INSERT INTO book (BookID, Title, Author, Publisher, Price, PubYear)
+VALUES (3, '코스모스' , '마이크','예스24',25000,2025);
 
 
 ----------- Rental table ----------------
